@@ -35,12 +35,10 @@ table#planets {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     margin: 0;
     padding: 20px;
     text-align: center;
     background-image: url('../images/background.png');
-    background-size: contain;  
     background-repeat: no-repeat;
     background-position: center bottom; 
     background-color: #293d48; /* this colour is used to fill up the page */
