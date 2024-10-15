@@ -39,9 +39,10 @@ body {
     padding: 20px;
     text-align: center;
     background-image: url('../images/background.png');
-    background-size: contain;  
+    /* background-size: contain;  */
     background-repeat: no-repeat;
     background-position: bottom; 
+    background-attachment: scroll;
     background-color: #293d48; /* this colour is used to fill up the page */
 }
 
