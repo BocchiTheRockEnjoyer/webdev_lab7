@@ -13,8 +13,8 @@ tr:hover {
 }
 
 th {
-  background-color: #1d5e84;
-  color: white;
+  background-color: #1d5e84; /* Sets the table header (th) background color to a dark blue (#1d5e84) */
+  color: white;  /* changes the text color to white for better contrast */
 }
  
  img.planet {
@@ -39,6 +39,7 @@ body {
     margin: 0;
     padding: 20px;
     text-align: center;
+    background-image: url('images/background.png');
 }
 
 h1 {
