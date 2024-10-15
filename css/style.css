@@ -5,3 +5,8 @@ td, th {
  img.planet {
     width: 250px;
 }
+
+table#planets {
+    table-layout: fixed;
+    width: 100%;
+}
