@@ -17,7 +17,7 @@ th {
   color: white;  /* changes the text color to white for better contrast */
 }
  
- img.planet {
+img.planet {
     width: 180px;
     height: auto;
     border-radius: 5px;
