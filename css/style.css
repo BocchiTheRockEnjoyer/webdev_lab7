@@ -21,6 +21,12 @@ th {
     width: 180px;
     height: auto;
     border-radius: 5px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* gives a smooth transition */
+}
+
+img.planet:hover {
+    transform: scale(1.1); /* when hovered over, it becomes bigger */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* adds a shadow to the hover */
 }
 
 table#planets {
